@@ -5,8 +5,11 @@ Ce projet vise à analyser les avis clients Amazon en utilisant des techniques d
 
 Les principales étapes incluent :
 ✅ Extraction et nettoyage des données 📊
+
 ✅ Analyse de sentiment avec **VADER** 🔍
+
 ✅ Clustering des avis pour identifier des segments d’audience 🎯
+
 ✅ Visualisation des résultats pour une meilleure compréhension 📈
 
 ## 📂 Données
@@ -43,7 +46,9 @@ Nous utilisons l’**Amazon Review Polarity Dataset**, un ensemble de données c
 
 ## 🎯 Insights Clés & Recommandations
 🔹 Identification de segments d’utilisateurs ayant des attentes spécifiques (ex : mentions fréquentes des problèmes de **livraison** ou **qualité du produit**).
+
 🔹 Meilleure compréhension des attentes clients grâce aux **Word Clouds**.
+
 🔹 Proposition d’actions marketing ciblées pour améliorer l’expérience utilisateur.
 
 
