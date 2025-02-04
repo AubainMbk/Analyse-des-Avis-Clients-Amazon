@@ -4,6 +4,7 @@
 Ce projet vise à analyser les avis clients Amazon en utilisant des techniques de **Traitement du Langage Naturel (NLP)** et de **clustering** afin d’extraire des insights pertinents pour améliorer la stratégie marketing.
 
 Les principales étapes incluent :
+
 ✅ Extraction et nettoyage des données 📊
 
 ✅ Analyse de sentiment avec **VADER** 🔍
